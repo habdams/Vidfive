@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Vidfive
+
+This is a simple app that serves you top five videos after every search.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
