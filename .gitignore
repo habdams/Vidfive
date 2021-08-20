@@ -3,10 +3,9 @@
 
 # dependencies
 /node_modules
-.youtube.js
 /.pnp
 .pnp.js
-
+.env
 # testing
 /coverage
 
