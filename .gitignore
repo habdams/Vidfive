@@ -1,10 +1,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-#api
-.youtube.js
 
 # dependencies
 /node_modules
+.youtube.js
 /.pnp
 .pnp.js
 
